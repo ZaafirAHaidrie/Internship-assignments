@@ -11,7 +11,7 @@ try:
     if largest is None or n > largest:
         largest = n
         
-    if smallest is None or n < smallest
+    if smallest is None or n < smallest:
         smallest = n
         
 except:
